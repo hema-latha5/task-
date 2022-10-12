@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    
+    <h2>Music</h2>
+    <p>Music is a  special world:</p>
+    
+    <img style="width:500px" src="https://cdn.glitch.global/b5a9c8c5-6617-4502-af52-a919ea56ca7e/music.jpg?v=1665595062922" alt="Music">
+        
+     <p>* music relief our  stress:</p>    
+    <p>* I had a lot of interest in music, but i am not getting chance to learn it:</p>
+  
+  </body>
+</html>
